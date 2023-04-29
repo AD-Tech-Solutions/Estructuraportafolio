@@ -23,6 +23,12 @@ body {
     padding: 0rem 12rem;
 }
 
+.imagen_circular
+{
+    border-radius: 50%;
+    overflow: hidden;
+}
+
 @media screen and (max-width: 992px) {
     .container {
         padding: 0 2rem;
